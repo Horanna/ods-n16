@@ -1,0 +1,45 @@
+.header1{
+    height: 70px;
+    width: 4000px;
+    background-color: aquamarine;
+    display: flex;
+    margin: 20px;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+.nav2{
+   height: 500px;
+   width: 400px;
+   background-color: aqua;
+   display: flex;
+   margin: 20px;
+   justify-content: space-around;
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   align-items: flex-end;
+}
+.section3{
+    height: 200px;
+    width: 900px;
+    background-color: cadetblue;
+}
+.article{
+    height: 200px;
+    width: 700px;
+    background-color: rgb(34, 226, 226);
+}
+.aside4{
+    height: 200px;
+    height: 400px;
+    background-color: rgb(135, 173, 222);
+}
+.footer6{
+    height: 500px;
+    width: 400px;
+    background-color: aquamarine;
+
+}
